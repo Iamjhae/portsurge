@@ -30,12 +30,12 @@ Feed it a list of subdomains — it resolves DNS, scans ports with asyncio, grab
 
 ```bash
 # Clone and install
-git clone https://github.com/arookiech/portsurge.git
+git clone https://github.com/iamjhae/portsurge.git
 cd portsurge
 pip install .
 
 # Or install directly
-pip install git+https://github.com/arookiech/portsurge.git
+pip install git+https://github.com/iamjhae/portsurge.git
 
 # Or just run without installing
 python -m portsurge -l subs.txt
