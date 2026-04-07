@@ -27,8 +27,8 @@ classifiers = [
 portsurge = "portsurge.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/arookiech/portsurge"
-Issues = "https://github.com/arookiech/portsurge/issues"
+Homepage = "https://github.com/iamjhae/portsurge"
+Issues = "https://github.com/iamjhae/portsurge/issues"
 
 [tool.setuptools.packages.find]
 include = ["portsurge*"]
